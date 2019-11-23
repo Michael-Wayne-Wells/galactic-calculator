@@ -19,5 +19,4 @@ export class User {
       return yearsLeft;
     }
   }
-
 }
